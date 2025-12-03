@@ -1,0 +1,11 @@
+# Ignore Office Installer Files (Large Files)
+Office/
+*.cab
+*.dat
+
+# Ignore Executables
+setup.exe
+*.exe
+
+# Ignore Logs
+*.log
